@@ -1,0 +1,318 @@
+{
+  "users": {
+    "player-1": {
+      "id": "player-1",
+      "name": "Sanctuary 1",
+      "isStarterNeighbor": false,
+      "houseStyle": "joglo",
+      "coins": 360,
+      "bamboo": 32,
+      "teak": 14,
+      "trophies": 0,
+      "timeOfDay": 0.66,
+      "unlockedCells": [
+        "-1,-1",
+        "-1,0",
+        "-1,1",
+        "0,-1",
+        "0,0",
+        "0,1",
+        "1,-1",
+        "1,0",
+        "1,1"
+      ],
+      "buildings": [
+        {
+          "id": "bld-player-1-1",
+          "type": "kandang",
+          "gx": -1,
+          "gz": -1,
+          "level": 1,
+          "lastCollectedAt": 1794875616140
+        },
+        {
+          "id": "bld-player-1-2",
+          "type": "lentera",
+          "gx": 1,
+          "gz": 1,
+          "level": 1,
+          "lastCollectedAt": 1794875616140
+        }
+      ],
+      "pets": [
+        {
+          "id": "pet-player-1-1",
+          "name": "Milo",
+          "species": "cat",
+          "coat": "calico",
+          "hunger": 78,
+          "hygiene": 82,
+          "health": 92,
+          "happiness": 84,
+          "xp": 0,
+          "equipped": {
+            "neck": "kalung_batik"
+          }
+        }
+      ],
+      "ownedAccessories": [
+        "kalung_batik"
+      ],
+      "dailyVisits": {},
+      "updatedAt": 1794875616140
+    },
+    "pak-budi": {
+      "id": "pak-budi",
+      "name": "Pak Budi",
+      "isStarterNeighbor": true,
+      "houseStyle": "joglo",
+      "coins": 940,
+      "bamboo": 60,
+      "teak": 40,
+      "trophies": 4,
+      "timeOfDay": 0.66,
+      "unlockedCells": [
+        "-1,-1",
+        "-1,0",
+        "-1,1",
+        "0,-1",
+        "0,0",
+        "0,1",
+        "1,-1",
+        "1,0",
+        "1,1"
+      ],
+      "buildings": [
+        {
+          "id": "nb-budi-1",
+          "type": "kandang",
+          "gx": -1,
+          "gz": -1,
+          "level": 5,
+          "lastCollectedAt": 1794875616140
+        },
+        {
+          "id": "nb-budi-2",
+          "type": "warung",
+          "gx": 1,
+          "gz": -1,
+          "level": 4,
+          "lastCollectedAt": 1794875616140
+        },
+        {
+          "id": "nb-budi-3",
+          "type": "lentera",
+          "gx": 0,
+          "gz": 1,
+          "level": 6,
+          "lastCollectedAt": 1794875616140
+        }
+      ],
+      "pets": [
+        {
+          "id": "nb-pet-budi-1",
+          "name": "Belang",
+          "species": "cat",
+          "coat": "tabby",
+          "hunger": 90,
+          "hygiene": 88,
+          "health": 95,
+          "happiness": 92,
+          "xp": 120,
+          "equipped": {
+            "head": "blangkon",
+            "neck": "lonceng"
+          }
+        },
+        {
+          "id": "nb-pet-budi-2",
+          "name": "Kopi",
+          "species": "dog",
+          "coat": "brown",
+          "hunger": 85,
+          "hygiene": 80,
+          "health": 90,
+          "happiness": 89,
+          "xp": 90,
+          "equipped": {
+            "neck": "kalung_batik"
+          }
+        }
+      ],
+      "ownedAccessories": [
+        "blangkon",
+        "lonceng",
+        "kalung_batik"
+      ],
+      "dailyVisits": {},
+      "updatedAt": 1794875616140
+    },
+    "bu-sari": {
+      "id": "bu-sari",
+      "name": "Bu Sari",
+      "isStarterNeighbor": true,
+      "houseStyle": "limasan",
+      "coins": 1220,
+      "bamboo": 75,
+      "teak": 52,
+      "trophies": 7,
+      "timeOfDay": 0.66,
+      "unlockedCells": [
+        "-1,-1",
+        "-1,0",
+        "-1,1",
+        "0,-1",
+        "0,0",
+        "0,1",
+        "1,-1",
+        "1,0",
+        "1,1"
+      ],
+      "buildings": [
+        {
+          "id": "nb-sari-1",
+          "type": "warung",
+          "gx": -1,
+          "gz": 0,
+          "level": 7,
+          "lastCollectedAt": 1794875616140
+        },
+        {
+          "id": "nb-sari-2",
+          "type": "pancuran",
+          "gx": 1,
+          "gz": 0,
+          "level": 5,
+          "lastCollectedAt": 1794875616140
+        },
+        {
+          "id": "nb-sari-3",
+          "type": "klinik",
+          "gx": 0,
+          "gz": -1,
+          "level": 4,
+          "lastCollectedAt": 1794875616140
+        },
+        {
+          "id": "nb-sari-4",
+          "type": "lentera",
+          "gx": 1,
+          "gz": 1,
+          "level": 7,
+          "lastCollectedAt": 1794875616140
+        }
+      ],
+      "pets": [
+        {
+          "id": "nb-pet-sari-1",
+          "name": "Wekwek",
+          "species": "duck",
+          "coat": "white",
+          "hunger": 94,
+          "hygiene": 96,
+          "health": 94,
+          "happiness": 95,
+          "xp": 200,
+          "equipped": {
+            "head": "caping",
+            "back": "sayap_layangan"
+          }
+        }
+      ],
+      "ownedAccessories": [
+        "caping",
+        "sayap_layangan"
+      ],
+      "dailyVisits": {},
+      "updatedAt": 1794875616140
+    },
+    "mas-raka": {
+      "id": "mas-raka",
+      "name": "Mas Raka",
+      "isStarterNeighbor": true,
+      "houseStyle": "bambu",
+      "coins": 1680,
+      "bamboo": 90,
+      "teak": 68,
+      "trophies": 11,
+      "timeOfDay": 0.66,
+      "unlockedCells": [
+        "-1,-1",
+        "-1,0",
+        "-1,1",
+        "0,-1",
+        "0,0",
+        "0,1",
+        "1,-1",
+        "1,0",
+        "1,1"
+      ],
+      "buildings": [
+        {
+          "id": "nb-raka-1",
+          "type": "arena",
+          "gx": -1,
+          "gz": -1,
+          "level": 8,
+          "lastCollectedAt": 1794875616140
+        },
+        {
+          "id": "nb-raka-2",
+          "type": "lentera",
+          "gx": 1,
+          "gz": 1,
+          "level": 9,
+          "lastCollectedAt": 1794875616140
+        },
+        {
+          "id": "nb-raka-3",
+          "type": "kandang",
+          "gx": 1,
+          "gz": -1,
+          "level": 6,
+          "lastCollectedAt": 1794875616140
+        }
+      ],
+      "pets": [
+        {
+          "id": "nb-pet-raka-1",
+          "name": "Loreng",
+          "species": "dog",
+          "coat": "tan",
+          "hunger": 92,
+          "hygiene": 90,
+          "health": 96,
+          "happiness": 94,
+          "xp": 310,
+          "equipped": {
+            "head": "blangkon",
+            "neck": "lonceng",
+            "back": "sayap_layangan"
+          }
+        },
+        {
+          "id": "nb-pet-raka-2",
+          "name": "Cemong",
+          "species": "cat",
+          "coat": "black",
+          "hunger": 88,
+          "hygiene": 91,
+          "health": 93,
+          "happiness": 90,
+          "xp": 180,
+          "equipped": {
+            "head": "caping"
+          }
+        }
+      ],
+      "ownedAccessories": [
+        "blangkon",
+        "lonceng",
+        "sayap_layangan",
+        "caping"
+      ],
+      "dailyVisits": {},
+      "updatedAt": 1794875616140
+    }
+  }
+}
